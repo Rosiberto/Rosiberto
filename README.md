@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 ![Rosiberto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rosiberto&theme=algolia&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosiberto&langs_count=8)
