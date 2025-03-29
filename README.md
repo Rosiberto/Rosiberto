@@ -1,7 +1,5 @@
 ## Hi there
 <div>
-## Progamming
-
 
 ###  👨‍💻  Programming languages
 <!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMS8crvN1a1SPjTqc8N26FA?style=social) -->
