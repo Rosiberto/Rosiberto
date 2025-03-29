@@ -42,15 +42,15 @@
 
 ## Frameworks
 <p align='left'>
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/android.svg" height="70" width="70" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/angular.svg" height="70" width="70" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/boostrap.svg" height="70" width="70" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/django.svg" height="70" width="70" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/flask.svg" height="70" width="70" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" height="70" width="70" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/materialize.svg" height="70" width="70" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/spring.svg" height="70" width="70" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" height="70" width="70" />  
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/android.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/angular.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/boostrap.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/django.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/flask.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/materialize.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/spring.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" height="50" width="50" />  
 </p>
 
 ## Cloud
@@ -67,14 +67,14 @@
 
 ## Others
 <p align='left'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" height="70" width="70" />
-<img src="  https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" height="70" width="70" />
-<img src="  https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" height="70" width="70" />
-<img src="  https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="70" width="70" />
-<img src="  https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="70" width="70" />
-<img src="  https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="70" width="70" />
-<img src="  https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" height="70" width="70" />
-<img src="  https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" height="70" width="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" height="50" width="50" />
 </p>
 
 
