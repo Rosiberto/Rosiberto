@@ -30,7 +30,6 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="50" width="50" />
 </p>
 
 ## Database
