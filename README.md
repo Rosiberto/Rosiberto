@@ -16,6 +16,7 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="php" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="node js" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="70" width="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg" height="70" width="70" />
 </p>
 
 ## Ide
@@ -29,6 +30,7 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="50" width="50" />
 </p>
 
 ## Database
@@ -75,6 +77,30 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/chartjs/chartjs-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ifttt/ifttt-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodered/nodered-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" height="50" width="50" />
 </p>
 
 
