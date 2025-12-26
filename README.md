@@ -100,6 +100,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="50" width="50" />
 </p>
 
 
