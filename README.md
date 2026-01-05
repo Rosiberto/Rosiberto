@@ -145,7 +145,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" height="50" width="50" />
