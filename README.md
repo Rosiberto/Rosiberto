@@ -1,22 +1,31 @@
 ## Hi there
 <div>
 
+<div style=''>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rosiberto&label=Profile%20views&color=0e75b6&style=flat" alt="rosiberto" /> </p>
+
+<!--p style = 'float:right'> <a href="https://twitter.com/bablubambal" target="blank"><img src="https://img.shields.io/twitter/follow/bablubambal?logo=twitter&style=for-the-badge" alt="bablubambal" /></a> </p-->
+</div>
+
 ###  👨‍💻  Programming languages
 <!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMS8crvN1a1SPjTqc8N26FA?style=social) -->
 
 <p align='left'>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" alt="c#" height="70" width="70" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="bablubambal" height="50" width="50" /> 
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" alt="bablubambal" height="50" width="50" /> 
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/bash.svg" height="50" width="50" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/kotlin.svg" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg alt="javascript" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" alt="typescript" height="50" width="50" /> 
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/bash.svg" alt="bash" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/kotlin.svg" alt="kotlin" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="php" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="node js" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="70" width="70" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg" height="70" width="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" height="70" width="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg" alt="Delphi" height="70" width="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" height="50" width="50" />
+
 </p>
 
 ## Ide
@@ -25,11 +34,13 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/notepad%2B%2B.png" alt="C++ language" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="java" height="50" width="50" /> 
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/android-studio.svg" height="50" width="50" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/eclipse.svg" height="90" width="90" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/android-studio.svg" alt="Android Studio" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/eclipse.svg" alt="Eclipse" height="90" width="90" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" alt="Intellij" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" alt="Netbeans" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" height="50" width="50" />
 </p>
 
 ## Database
@@ -37,8 +48,11 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" alt="MongoDB" height="120" width="120" />
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" height="80" width="80" />
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/oracle.svg" height="80" width="80" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" height="70" width="70" />
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/redis.svg" height="70" width="70" />  
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="Postgresql" height="70" width="70" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/redis.svg" alt="Redis" height="70" width="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebird/firebird-original.svg" alt="Firebird" height="70" width="70" />
+
+  
 </p>
 
 ## Frameworks
@@ -51,7 +65,11 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" height="50" width="50" />
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/materialize.svg" height="50" width="50" />
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/spring.svg" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" height="50" width="50" />  
+<img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/laravel.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/thymeleaf/thymeleaf-original.svg" height="50" width="50" />
+  
 </p>
 
 ## Cloud
@@ -64,6 +82,9 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/github.svg" height="70" width="70" />
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/gitlab.svg" height="70" width="70" />
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/heroku.svg" height="70" width="70" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/ansible.svg" height="70" width="70" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/gcloud.svg" height="70" width="70" />
+
 </p>
 
 ## Others
@@ -106,7 +127,36 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="50" width="50" />
-</p>
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" height="50" width="50" />
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/chartjs/chartjs-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dreamweaver/dreamweaver-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/radstudio/radstudio-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" height="50" width="50" />
+
+ </p>
 
 
 <!-- 
