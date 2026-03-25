@@ -25,6 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" height="70" width="70" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg" alt="Delphi" height="70" width="70" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" height="50" width="50" />
 
 </p>
 
@@ -51,7 +52,8 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="Postgresql" height="70" width="70" />
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/redis.svg" alt="Redis" height="70" width="70" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebird/firebird-original.svg" alt="Firebird" height="70" width="70" />
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" alt="Cassandra" height="70" width="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" height="70" width="70" />
   
 </p>
 
@@ -108,13 +110,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodered/nodered-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" height="50" width="50" />
@@ -154,7 +154,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" alt="CentOS" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="InkScape" height="50" width="50" />
 
+  
  </p>
 
 
