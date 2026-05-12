@@ -22,8 +22,8 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/kotlin.svg" alt="kotlin" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="php" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="node js" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" height="70" width="70" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg" alt="Delphi" height="70" width="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg" alt="Delphi" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" height="50" width="50" />
 
