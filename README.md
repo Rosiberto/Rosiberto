@@ -26,7 +26,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/delphi/delphi-original.svg" alt="Delphi" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" height="50" width="50" />
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Processing" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original-wordmark.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" height="50" width="50" />
 </p>
 
 ## Ide
@@ -98,7 +102,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" height="50" width="50" />
